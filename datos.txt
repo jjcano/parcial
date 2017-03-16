@@ -1,0 +1,5 @@
+Pelicula: deep road
+Costo: 23456
+silla: 12
+Hora: 23
+ID: 2
